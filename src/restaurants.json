@@ -1,0 +1,46 @@
+[{
+  "uuid": "46449553-d49f-45c4-b31a-56324df991fe",
+  "name": "11船麵",
+  "rate": 2.73,
+  "address": "高雄市鼓山區濱海一路25-3號"
+},{
+  "uuid": "c91608af-4ada-4f7e-8600-10a5e088d71b",
+  "name": "713厝",
+  "rate": 2.45,
+  "address": "高雄市鼓山區九如四路713號"
+},{
+  "uuid": "207125d6-c31c-48c1-813b-a6df360d557b",
+  "name": "72度C舒肥健康餐",
+  "rate": 2.9,
+  "address": "高雄市鼓山區慶豐街82號"
+},{
+  "uuid": "0be64191-1f0a-4da5-ace1-73e8119ce922",
+  "name": "73階蔬食咖啡",
+  "rate": 2.79,
+  "address": "高雄市鼓山區蓮海路70號中山大學學生活動中心3樓"
+},{
+  "uuid": "482932e1-39de-4ba7-b54b-d886036fe3a4",
+  "name": "8元黑輪店",
+  "rate": 3.05,
+  "address": "高雄市鼓山區伊犁街35號"
+},{
+  "uuid": "00076cb8-fdd9-473a-bfb3-f65fd5b6eda1",
+  "name": "ALIEN All-Day Lounge",
+  "rate": 2.94,
+  "address": "高雄市鼓山區鼓山一路111號 2F"
+},{
+  "uuid": "4e89446d-6eca-464f-8ab5-39dff0b21778",
+  "name": "allOnda 浪。義大利慢食廚房",
+  "rate": 2.9,
+  "address": "高雄市鼓山區青海路185號"
+},{
+  "uuid": "ae191f96-27c3-43df-8561-c155576130d0",
+  "name": "Beer Talk Cafe & Bar - 駁二店",
+  "rate": 2.47,
+  "address": "高雄市鹽埕區大義街2-6號2C11"
+},{
+  "uuid": "1ec8fbe0-100c-486a-b40e-58cb6a17c3b2",
+  "name": "Big Mama",
+  "rate": 2.58,
+  "address": "高雄市鹽埕區大勇路78號"
+}]
