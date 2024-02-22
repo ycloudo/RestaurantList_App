@@ -1,2 +1,2 @@
 # Restaurant List App
-This Web App is for teaching in NSYSU programming club's React JS course 2023
+This Web App is for teaching in NSYSU Programming Club's course - React JS 2023
